@@ -1,0 +1,94 @@
+---
+title: Kollektivtrafik - GIS-filer per kommun och för hela Dalarna
+author: ""
+date: ""
+output: 
+  html_document:
+    includes:
+      in_header: hero_image.html
+    toc: yes
+    toc_float: yes
+    toc_depth: 6
+    css: "styles_hero.css"
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+# Nödvändiga paket
+if (!require('pacman')) install.packages('pacman')
+p_load(here,
+       tidyverse,
+       openxlsx,
+       git2r,
+       keyring)
+
+# Funktioner som behövs (hämtas från Git-Hub)
+source('https://raw.githubusercontent.com/Region-Dalarna/funktioner/main/func_API.R')
+
+# För att information från Tidyverse inte skall visas
+options(dplyr.summarise.inform = FALSE)
+
+
+```
+
+<p style = "font-size:12px">
+<i>Sidan är skapad av Samhällsanalys, Region Dalarna<br>
+Senast uppdaterad: `r Sys.Date()`</i>
+</p>
+
+
+Denna sida är en pilot från Regionala utvecklingsförvaltningen vid Region Dalarna i syfte att tillgängliggöra geodata för kollektivtrafiken i länet, per kommun och för hela Dalarna. 
+<br>
+
+# Nedladdning
+
+Geopackage-filer med hållplatser och busslinjer:
+
+<ul>
+
+<li> [Dalarna](GIS-filer/kollektivtrafik_Dalarna.gpkg) </li>
+
+<li> [Avesta](GIS-filer/kollektivtrafik_Avesta.gpkg) </li>
+    
+<li> [Borlänge](GIS-filer/kollektivtrafik_Borlänge.gpkg) </li>
+
+<li> [Falun](GIS-filer/kollektivtrafik_Falun.gpkg) </li>
+
+<li> [Gagnef](GIS-filer/kollektivtrafik_Gagnef.gpkg) </li>
+
+<li> [Hedemora](GIS-filer/kollektivtrafik_Hedemora.gpkg) </li>
+
+<li> [Leksand](GIS-filer/kollektivtrafik_Leksand.gpkg) </li>
+
+<li> [Ludvika](GIS-filer/kollektivtrafik_Ludvika.gpkg) </li>
+
+<li> [Malung-Sälen](GIS-filer/kollektivtrafik_Malung-Sälen.gpkg) </li>
+
+<li> [Mora](GIS-filer/kollektivtrafik_Mora.gpkg) </li>
+
+<li> [Orsa](GIS-filer/kollektivtrafik_Orsa.gpkg) </li>
+
+<li> [Rättvik](GIS-filer/kollektivtrafik_Rättvik.gpkg) </li>
+
+<li> [Smedjebacken](GIS-filer/kollektivtrafik_Smedjebacken.gpkg) </li>
+
+<li> [Säter](GIS-filer/kollektivtrafik_Säter.gpkg) </li>
+
+<li> [Vansbro](GIS-filer/kollektivtrafik_Vansbro.gpkg) </li>
+
+<li> [Älvdalen](GIS-filer/kollektivtrafik_Älvdalen.gpkg) </li>
+
+# Källa
+
+Den geodata som tillgängliggörs här är hämtad från [Trafiklab](https://www.trafiklab.se/sv/), som drivs av Samtrafiken. Samtrafiken ägs i sin tur av de regionala kollektivtrafikmyndigheterna samt många av de kommersiella trafikoperatörerna med nationella trafik i Sverige. Geodata hos Trafiklab erbjuds i GTFS-formatet. GTFS står för General Transit Feed Specification och är ett  standardiserat format för kollektivtrafikdata. Det är ett öppet format och används av kollektivtrafikmyndigheter och trafikoperatörer över hela världen. GTFS-formatet är väldigt bra på många sätt men kan vara lite snårigt att förstå då data är uppdelat i olika dataset som kopplas ihop med id-nummer på operatörer, linjer, turer etc. För de som väldigt enkelt vill ladda hem geodata över busslinjer och hållpatser för sin kommun eller för hela Dalarna erbjuder Samhällsanalys denna geodata som Geopackagefiler som kan öppnas i GIS-programvaror såsom [QGIS](www.qgis.org) som uppdateras varje vecka. 
+
+```{r, include = FALSE}
+
+# if(uppdatera_hemsida==TRUE){
+#    # kopiera html-filen till
+#    file.copy(from = "kollektivtrafik.html", to = "docs/kollektivtrafik.html", overwrite = TRUE)
+# }
+
+```
