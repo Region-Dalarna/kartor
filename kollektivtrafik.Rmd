@@ -38,7 +38,6 @@ options(dplyr.summarise.inform = FALSE)
 Senast uppdaterad: `r Sys.Date()`</i>
 </p>
 
-
 Denna sida är en pilot från Regionala utvecklingsförvaltningen vid Region Dalarna i syfte att tillgängliggöra geodata för kollektivtrafiken i länet, per kommun och för hela Dalarna. 
 <br>
 
