@@ -47,37 +47,37 @@ Geopackage-filer med hållplatser och busslinjer:
 
 <ul>
 
-<li> [Dalarna](GIS-filer/kollektivtrafik_Dalarna.gpkg) </li>
+<li> [Dalarna](gis-filer/kollektivtrafik_Dalarna.gpkg) </li>
 
-<li> [Avesta](GIS-filer/kollektivtrafik_Avesta.gpkg) </li>
+<li> [Avesta](gis-filer/kollektivtrafik_Avesta.gpkg) </li>
     
-<li> [Borlänge](GIS-filer/kollektivtrafik_Borlänge.gpkg) </li>
+<li> [Borlänge](gis-filer/kollektivtrafik_Borlänge.gpkg) </li>
 
-<li> [Falun](GIS-filer/kollektivtrafik_Falun.gpkg) </li>
+<li> [Falun](gis-filer/kollektivtrafik_Falun.gpkg) </li>
 
-<li> [Gagnef](GIS-filer/kollektivtrafik_Gagnef.gpkg) </li>
+<li> [Gagnef](gis-filer/kollektivtrafik_Gagnef.gpkg) </li>
 
-<li> [Hedemora](GIS-filer/kollektivtrafik_Hedemora.gpkg) </li>
+<li> [Hedemora](gis-filer/kollektivtrafik_Hedemora.gpkg) </li>
 
-<li> [Leksand](GIS-filer/kollektivtrafik_Leksand.gpkg) </li>
+<li> [Leksand](gis-filer/kollektivtrafik_Leksand.gpkg) </li>
 
-<li> [Ludvika](GIS-filer/kollektivtrafik_Ludvika.gpkg) </li>
+<li> [Ludvika](gis-filer/kollektivtrafik_Ludvika.gpkg) </li>
 
-<li> [Malung-Sälen](GIS-filer/kollektivtrafik_Malung-Sälen.gpkg) </li>
+<li> [Malung-Sälen](gis-filer/kollektivtrafik_Malung-Sälen.gpkg) </li>
 
-<li> [Mora](GIS-filer/kollektivtrafik_Mora.gpkg) </li>
+<li> [Mora](gis-filer/kollektivtrafik_Mora.gpkg) </li>
 
-<li> [Orsa](GIS-filer/kollektivtrafik_Orsa.gpkg) </li>
+<li> [Orsa](gis-filer/kollektivtrafik_Orsa.gpkg) </li>
 
-<li> [Rättvik](GIS-filer/kollektivtrafik_Rättvik.gpkg) </li>
+<li> [Rättvik](gis-filer/kollektivtrafik_Rättvik.gpkg) </li>
 
-<li> [Smedjebacken](GIS-filer/kollektivtrafik_Smedjebacken.gpkg) </li>
+<li> [Smedjebacken](gis-filer/kollektivtrafik_Smedjebacken.gpkg) </li>
 
-<li> [Säter](GIS-filer/kollektivtrafik_Säter.gpkg) </li>
+<li> [Säter](gis-filer/kollektivtrafik_Säter.gpkg) </li>
 
-<li> [Vansbro](GIS-filer/kollektivtrafik_Vansbro.gpkg) </li>
+<li> [Vansbro](gis-filer/kollektivtrafik_Vansbro.gpkg) </li>
 
-<li> [Älvdalen](GIS-filer/kollektivtrafik_Älvdalen.gpkg) </li>
+<li> [Älvdalen](gis-filer/kollektivtrafik_Älvdalen.gpkg) </li>
 
 # Källa
 
