@@ -47,35 +47,35 @@ Geopackage-filer med hållplatser och busslinjer:
 
 <ul>
 
-<li> [Dalarna](gis-filer/kollektivtrafik_Dalarna.gpkg) </li>
+<li> [Dalarna](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Dalarna.gpkg) </li>
 
-<li> [Avesta](gis-filer/kollektivtrafik_Avesta.gpkg) </li>
+<li> [Avesta](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Avesta.gpkg) </li>
     
-<li> [Borlänge](gis-filer/kollektivtrafik_Borlänge.gpkg) </li>
+<li> [Borlänge](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Borlänge.gpkg) </li>
 
-<li> [Falun](gis-filer/kollektivtrafik_Falun.gpkg) </li>
+<li> [Falun](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Falun.gpkg) </li>
 
-<li> [Gagnef](gis-filer/kollektivtrafik_Gagnef.gpkg) </li>
+<li> [Gagnef](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Gagnef.gpkg) </li>
 
-<li> [Hedemora](gis-filer/kollektivtrafik_Hedemora.gpkg) </li>
+<li> [Hedemora](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Hedemora.gpkg) </li>
 
-<li> [Leksand](gis-filer/kollektivtrafik_Leksand.gpkg) </li>
+<li> [Leksand](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Leksand.gpkg) </li>
 
-<li> [Ludvika](gis-filer/kollektivtrafik_Ludvika.gpkg) </li>
+<li> [Ludvika](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Ludvika.gpkg) </li>
 
-<li> [Malung-Sälen](gis-filer/kollektivtrafik_Malung-Sälen.gpkg) </li>
+<li> [Malung-Sälen](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Malung-Sälen.gpkg) </li>
 
-<li> [Mora](gis-filer/kollektivtrafik_Mora.gpkg) </li>
+<li> [Mora](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Mora.gpkg) </li>
 
-<li> [Orsa](gis-filer/kollektivtrafik_Orsa.gpkg) </li>
+<li> [Orsa](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Orsa.gpkg) </li>
 
-<li> [Rättvik](gis-filer/kollektivtrafik_Rättvik.gpkg) </li>
+<li> [Rättvik](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Rättvik.gpkg) </li>
 
-<li> [Smedjebacken](gis-filer/kollektivtrafik_Smedjebacken.gpkg) </li>
+<li> [Smedjebacken](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Smedjebacken.gpkg) </li>
 
-<li> [Säter](gis-filer/kollektivtrafik_Säter.gpkg) </li>
+<li> [Säter](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Säter.gpkg) </li>
 
-<li> [Vansbro](gis-filer/kollektivtrafik_Vansbro.gpkg) </li>
+<li> [Vansbro](https://region-dalarna.github.io/kartor/gis-filer/kollektivtrafik_Vansbro.gpkg) </li>
 
 <li> [Älvdalen](gis-filer/kollektivtrafik_Älvdalen.gpkg) </li>
 
