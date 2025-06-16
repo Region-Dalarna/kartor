@@ -1,0 +1,1 @@
+*.gpkg !text !filter !merge !diff
